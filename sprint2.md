@@ -7,6 +7,6 @@
 
 ## Requisitos técnicos
 
- - Aplicação deve ser desenvolvida em Xamarin.Forms;
- - API deve ser feita na aplicação já existente;
+ - Aplicação deve ser desenvolvida em Xamarin.Forms.
+ - API deve ser feita na aplicação já existente.
 
