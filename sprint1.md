@@ -62,7 +62,12 @@ Request:
 
 ## Documentação
 
- - https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-5.0
-
+ - https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-5.0
  - https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test
+
+## Para aprendizado
+
+ - https://docs.microsoft.com/pt-br/learn/modules/build-web-api-aspnet-core/
+ - https://channel9.msdn.com/Series/Beginners-Series-to-Web-APIs
+ - https://www.youtube.com/watch?v=mUAZ-EbGBOg
 
